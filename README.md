@@ -11,7 +11,8 @@
 ## Blog
 [P11co.github.io/blog](https://P11co.github.io/blog)
 
-That will be all. 
-Contact me at:
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white) @p11co
-![Proton](https://img.shields.io/badge/ProtonMail-8B89CC.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white) p11co@proton.me
+## Contact me
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.org) @p11co
+[![Proton](https://img.shields.io/badge/ProtonMail-8B89CC.svg?&style=for-the-badge&logo=ProtonMail&logoColor=white)](https://proton.me/) p11co@proton.me
+
+## 🥰
