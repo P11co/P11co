@@ -6,7 +6,7 @@ I have experience in development in {Frontend, Backend, Data analysis}.
 My research interests are a union of reinforcement learning, robot control systems, and graphics.
 
 ## Recent Projects
-> [![Granular Convolution Synthesis](https://img.shields.io/badge/-🎛️&nbsp;Granular_Convoution_Synthesis-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis) [![Granular Convolution Synthesis Paper](https://img.shields.io/badge/-📜&nbsp;_GCS_Paper-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis/blob/main/introduction_to_gcs.pdf)
+> [![Granular Convolution Synthesis](https://img.shields.io/badge/-🎛️&nbsp;Granular_Convolution_Synthesis-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis) [![Granular Convolution Synthesis Paper](https://img.shields.io/badge/-📜&nbsp;_GCS_Paper-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis/blob/main/introduction_to_gcs.pdf)
 >
 > A novel sound design framework that combines granular synthesis and convolution!
 
