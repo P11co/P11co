@@ -1,8 +1,6 @@
 # 👋🌎, I'm Peter Park
 I am a Computer Science student at Yonsei University and University of California, Berkeley.
 
-I have experience in development in {Frontend, Backend, Data analysis}. 
-
 My research interests are a union of reinforcement learning, robot control systems, and graphics.
 
 ## Recent Projects
