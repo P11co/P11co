@@ -8,7 +8,7 @@ My research interests are a union of reinforcement learning, robot control syste
 >
 > A novel sound design framework that combines granular synthesis and convolution!
 
-> [![CasePilot](https://img.shields.io/badge/-🧑‍✈️&nbsp;CasePilot:_Your_Personal_Interviewer-000000?style=flat)](https://github.com/Max-vS/CS194-project)
+> [![CasePilot](https://img.shields.io/badge/-🧑‍✈️&nbsp;CasePilot:_Your_Personal_Interviewer-000000?style=flat)](https://github.com/Max-vS/CS194-project) [![CasePilot Paper](https://img.shields.io/badge/-📜&nbsp;_CasePilot_Paper-000000?style=flat)](https://drive.google.com/file/d/1Ix9MsBQQIw_PRpVYtthHxPRyUvQAsff7/view?usp=sharing)
 >
 > [//]: #[![CasePilot](https://img.shields.io/badge/-📜&nbsp;CasePilot_Paper-000000?style=flat)](https://github.com/Max-vS/CS194-project)
 >
