@@ -1,7 +1,7 @@
 # 👋🌎, I'm Peter Park
 I am a Computer Science student at Yonsei University and University of California, Berkeley.
 
-My research interests are a union of reinforcement learning, robot control systems, and graphics.
+My research interests are a union of reinforcement learning and graphics.
 
 ## Recent Projects
 > [![Granular Convolution Synthesis](https://img.shields.io/badge/-🎛️&nbsp;Granular_Convolution_Synthesis-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis) [![Granular Convolution Synthesis Paper](https://img.shields.io/badge/-📜&nbsp;_GCS_Paper-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis/blob/main/introduction_to_gcs.pdf)
