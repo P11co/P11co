@@ -1,22 +1,19 @@
-# 👋🌎, I'm Peter Park
-I am a Computer Science student at Yonsei University and University of California, Berkeley. 
+# 👋🌎, I'm Peter
 
-Thanks for visiting.
+### Introduction
 
-## Recent Projects
-> [![MindMates](https://img.shields.io/badge/-🧠&nbsp;MindMates-000000?style=flat)](https://github.com/P11co/cs194-280) [![mindmates Paper](https://img.shields.io/badge/-📜&nbsp;_MindMates_Paper-000000?style=flat)](https://docs.google.com/document/d/1Oi1jfGHCWGP1kzAfFVqukbNbxQr5ijKjUYYWEwPnMYI/edit?usp=sharing)
->
-> A bidirectional multi-agent framework for mental health therapy
+I studied Computer Science as an undergraduate in South Korea and the United States. I enjoy building AI-driven tools that make complex workflows more accessible, useful, and human-centered. My current interests include applied AI, product design, audio processing, and music technology.
 
-> [![CasePilot](https://img.shields.io/badge/-🧑‍✈️&nbsp;CasePilot:_Your_Personal_Interviewer-000000?style=flat)](https://github.com/Max-vS/CS194-project) [![CasePilot Paper](https://img.shields.io/badge/-📜&nbsp;_CasePilot_Paper-000000?style=flat)](https://drive.google.com/file/d/1Ix9MsBQQIw_PRpVYtthHxPRyUvQAsff7/view?usp=sharing)
->
-> [//]: #[![CasePilot](https://img.shields.io/badge/-📜&nbsp;CasePilot_Paper-000000?style=flat)](https://github.com/Max-vS/CS194-project)
->
-> An LLM workflow that allows you to practice case Interviews with AI
+### Projects
 
-> [![Granular Convolution Synthesis](https://img.shields.io/badge/-🎛️&nbsp;Granular_Convolution_Synthesis-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis) [![Granular Convolution Synthesis Paper](https://img.shields.io/badge/-📜&nbsp;_GCS_Paper-000000?style=flat)](https://github.com/P11co/granular_convolution_synthesis/blob/main/introduction_to_gcs.pdf)
->
-> A novel sound design framework that combines granular synthesis and convolution
+| Year | Project Name & Description | Code | Paper | Demo |
+|---|---|---|---|---|
+| 2026 | **🤝 DOUM** *(kakao tech for !mpact)* <br />A village help-matching platform that turns small everyday requests into meaningful intergenerational connections.<br />작은 일상 도움 요청을 의미 있는 세대 간 연결로 바꾸는 마을 기반 도움 매칭 플랫폼입니다. | [Repo](https://github.com/tech4impact-team-porori) | 🕯️ | 🕯️ |
+| 2026 | **🚶 SeoulWalk**<br />A voice-first, multimodal AI tour guide for foreign tourists exploring Seoul<br /> | - | 🔮 | 🔮 |
+| 2025 | **🧠 MindMates**<br />A bidirectional multi-agent framework for mental health therapy. | [Repo](https://github.com/P11co/cs194-280) | [Paper](https://docs.google.com/document/d/1Oi1jfGHCWGP1kzAfFVqukbNbxQr5ijKjUYYWEwPnMYI/edit?usp=sharing) | [Video](https://youtu.be/5mKpTrVX8xI) |
+| 2024 | **🧑‍✈️ CasePilot**<br />An LLM workflow for practicing case interviews with AI. | [Repo](https://github.com/Max-vS/CS194-project) | [Paper](https://drive.google.com/file/d/1Ix9MsBQQIw_PRpVYtthHxPRyUvQAsff7/view?usp=sharing) | [Video](https://youtu.be/5vzgU167saQ) |
+| 2024 | **🎛️ Granular Convolution Synthesis**<br />A sound design framework that combines granular synthesis and convolution. | [Repo](https://github.com/P11co/granular_convolution_synthesis) | [Paper](https://github.com/P11co/granular_convolution_synthesis/blob/main/introduction_to_gcs.pdf) | - |
+
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -24,4 +21,5 @@ Thanks for visiting.
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
 
